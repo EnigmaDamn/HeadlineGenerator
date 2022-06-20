@@ -6,4 +6,4 @@
 
 • Web scraped and preprocessed the data using BeautifulSoup, Pandas and NumPy.
 
-
+Inshorts_scraping.py is script to web scrap inshorts site.
